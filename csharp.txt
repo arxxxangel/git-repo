@@ -9,6 +9,8 @@ namespace CSharpProj
 		{
 			Console>writeLine("Hello World");
 			Console.writeLine("Whats up?");
+			Console.writeLine("how do you do?");
+
 		}
 	}
 }
