@@ -8,6 +8,7 @@ namespace CSharpProj
 		static void Main( string[] args )
 		{
 			Console>writeLine("Hello World");
+			Console.writeLine("Whats up?");
 		}
 	}
 }
